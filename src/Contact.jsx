@@ -73,7 +73,7 @@ const Contact = () => {
                     <div className="order-1 md:order-2 bg-white p-8 md:p-10 rounded-3xl shadow-xl">
 
                         <h2 className="text-3xl font-bold text-gray-800 mb-8">
-                            Contact Form
+                            Contact Form Data
                         </h2>
 
                         <form
