@@ -38,13 +38,13 @@ const Navbar = () => {
                         </li>
 
                         <li className="hover:text-blue-500 cursor-pointer transition-all duration-300">
-                            <Link to="/">
+                            <Link to="/about">
                                 About
                             </Link>
                         </li>
 
                         <li className="hover:text-blue-500 cursor-pointer transition-all duration-300">
-                            <Link to="/">
+                            <Link to="/services">
                                 Services
                             </Link>
                         </li>
@@ -80,11 +80,13 @@ const Navbar = () => {
                                 </li>
 
                                 <li className="hover:text-blue-500 cursor-pointer">
-                                    <Link to="/">About</Link>
+                                    <Link to="/about">
+                                        About
+                                    </Link>
                                 </li>
 
                                 <li className="hover:text-blue-500 cursor-pointer">
-                                    <Link to="/">
+                                    <Link to="/services">
                                         Services
                                     </Link>
                                 </li>
